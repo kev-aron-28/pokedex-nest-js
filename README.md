@@ -17,6 +17,7 @@ npm i -g @nestjs/cli
 ```
 docker compose up -d
 ```
+5. Clonar archivo __.env.template__
 
 ##Stack usado
 *Mongo db
